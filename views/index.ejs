@@ -1,0 +1,18 @@
+<!-- index.ejs -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>image upload</title>
+</head>
+<body>
+    <% if (message){ %>
+        <p><%= message %></p>
+        <% } %>
+    <form action="/imageUpload" method="post" enctype="multipart/form-data" accept="image">
+        <input type="file" name="avatar" id="">
+        <button type="submit">Upload image</button>
+    </form>
+</body>
+</html>

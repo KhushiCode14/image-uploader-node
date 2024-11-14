@@ -1,0 +1,76 @@
+<mxfile host="65bd71144e">
+    <diagram id="x7IFYAtd4ZOixWo3UeBf" name="Page-1">
+        <mxGraphModel dx="769" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="t" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=vert;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="40" width="140" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="env&lt;br&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="130" y="60" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+                    <mxGeometry x="152.5" y="110" width="15" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="t" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=vert;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="200" width="140" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="express" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="130" y="220" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+                    <mxGeometry x="152.5" y="270" width="15" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="t" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=vert;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="370" width="140" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="express" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="130" y="390" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+                    <mxGeometry x="152.5" y="440" width="15" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.76;dx=41.2;notch=0;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="400" width="90" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" style="edgeStyle=none;html=1;exitX=0;exitY=0;exitDx=48.8;exitDy=15.2;exitPerimeter=0;entryX=0;entryY=0;entryDx=48.8;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="17" target="17">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="t" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=vert;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" vertex="1" parent="1">
+                    <mxGeometry x="330" y="385" width="140" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="register/login" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="355" y="410" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" style="edgeStyle=none;html=1;exitX=0;exitY=0;exitDx=48.8;exitDy=15.2;exitPerimeter=0;entryX=0;entryY=0;entryDx=48.8;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="518.8" y="430.20000000000005" as="sourcePoint"/>
+                        <mxPoint x="518.8" y="415" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="23" value="t" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=vert;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" vertex="1" parent="1">
+                    <mxGeometry x="330" y="170" width="140" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="t" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=vert;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" vertex="1" parent="1">
+                    <mxGeometry x="330" y="280" width="140" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="t" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=vert;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" vertex="1" parent="1">
+                    <mxGeometry x="330" y="60" width="140" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="t" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=vert;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" vertex="1" parent="1">
+                    <mxGeometry x="540" y="60" width="140" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;bcypt&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="370" y="300" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="jwt" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="1">
+                    <mxGeometry x="370" y="190" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="passport" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="80" width="60" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
